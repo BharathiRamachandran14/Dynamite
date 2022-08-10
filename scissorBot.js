@@ -1,6 +1,6 @@
 class Bot {
     makeMove(gamestate) {
-        return 'D';
+        return 'S';
     }
 }
 
